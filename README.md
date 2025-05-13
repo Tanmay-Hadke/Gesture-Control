@@ -87,8 +87,8 @@ pip install opencv-python mediapipe pyautogui pyttsx3 speechrecognition comtypes
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/gesture-voice-control.git
-   cd gesture-voice-control
+   git clone https://github.com/Tanmay-Hadke/Gesture-Control.git
+   cd Gesture-Control
    ```
 
 2. **Run the program:**
@@ -129,9 +129,8 @@ Contributions are welcome!
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-📫 [your.email@example.com](mailto:your.email@example.com)  
-🌐 [yourwebsite.com](https://yourwebsite.com)
+**Tanmay Hadke**   
+🌐 [Github](https://yourwebsite.com)
 
 ---
 
