@@ -130,7 +130,8 @@ Contributions are welcome!
 ## 🧑‍💻 Author
 
 **Tanmay Hadke**   
-🌐 [Github](https://yourwebsite.com)
+[Github](https://github.com/Tanmay-Hadke)
+[LinkedIn](https://www.linkedin.com/in/tanmay-hadke)
 
 ---
 
