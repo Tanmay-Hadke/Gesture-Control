@@ -108,11 +108,6 @@ You can extend the system with:
 - **Two-hand gesture recognition**
 - **Dynamic gesture training using ML models**
 
----
-
-## 📸 Demo
-
-> Add your GIFs or screen recording here
 
 ---
 
